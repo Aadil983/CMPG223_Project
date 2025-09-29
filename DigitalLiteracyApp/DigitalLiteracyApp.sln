@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalLiteracyApp", "DigitalLiteracyApp\DigitalLiteracyApp.csproj", "{2A6D19BF-1D9D-44A6-BC6C-6622FDA60649}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A6D19BF-1D9D-44A6-BC6C-6622FDA60649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A6D19BF-1D9D-44A6-BC6C-6622FDA60649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A6D19BF-1D9D-44A6-BC6C-6622FDA60649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A6D19BF-1D9D-44A6-BC6C-6622FDA60649}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F603BFDF-150D-40AC-98AB-8DA22D61D011}
+	EndGlobalSection
+EndGlobal
